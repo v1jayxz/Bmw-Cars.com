@@ -1,1 +1,1 @@
-# projects
+Normal home page of website
